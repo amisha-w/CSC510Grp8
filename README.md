@@ -1,1 +1,1 @@
-# CSC510Grp8
+# CSC510 Group 8: Homework 1
