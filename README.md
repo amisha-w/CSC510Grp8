@@ -1,1 +1,1 @@
-# CSC510 Group 8: Homework 1
+![alt text](https://github.com/amisha-w/CSC510Grp8/blob/addReadme/images/groupIntro.png?raw=true)
