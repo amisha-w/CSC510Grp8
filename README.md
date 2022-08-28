@@ -11,7 +11,7 @@ This repo demonstrates the use of good structure and SE practices.
 It contains a Python module for a Greeter, that takes the name of a user as an input, and returns a kind greeting :) 
 
 ------------------------------------------
-
+![](https://github.com/amisha-w/CSC510Grp8/actions/workflows/github_actions.yml/badge.svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
