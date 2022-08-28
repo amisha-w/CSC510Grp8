@@ -1,13 +1,26 @@
 ![alt text](https://github.com/amisha-w/CSC510Grp8/blob/addReadme/images/groupIntro.png?raw=true)
-# Greeter
+<div align="center">
+<img src="./images/hello.png" width="100px"></img>
+
+# `Greeter`
+</div> 
+
+
+> **A sample of a Good Repository.**. 
+This repo demonstrates the use of good structure and SE practices.
+It contains a Python module for a Greeter, that takes the name of a user as an input, and returns a kind greeting :) 
+
+------------------------------------------
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🤝 Meet the team
-- 👨‍💻 Ameya Chavan
-- 👩‍💻 Amisha Waghela
-- 👩‍💻 Aoishi Das
-- 👨‍💻 Kunal Shah
-- 👩‍💻 Swarnamalya M
+- [👨‍💻 Ameya Chavan](https://github.com/ameyachavan26)
+- [👩‍💻 Amisha Waghela](https://github.com/amisha-w)
+- [👩‍💻 Aoishi Das](https://github.com/Aoishi28)
+- [👨‍💻 Kunal Shah](https://github.com/kunalshah03)
+- [👩‍💻 Swarnamalya M](https://github.com/swarnamalyamohan)
 
 ## 🌼 Features
 | Function      |Description    |
@@ -16,7 +29,7 @@
 
 ## 📀 Install now!
 ```bash
-npm i some-package
+pip install -m requirements.txt
 ```
 Then run setup.py
 
@@ -44,3 +57,5 @@ Then run setup.py
 <div align="center">
 ༼ つ ◕_◕ ༽つ  Full marks please  
 </div>
+
+<a href="https://www.flaticon.com/free-icons/hello" title="hello icons">Icon credit: Flaticon</a>
