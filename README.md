@@ -12,8 +12,13 @@ It contains a Python module for a Greeter, that takes the name of a user as an i
 
 ------------------------------------------
 ![](https://github.com/amisha-w/CSC510Grp8/actions/workflows/github_actions.yml/badge.svg)
+### 
+![](https://img.shields.io/github/license/amisha-w/CSC510Grp8?style=for-the-badge)
+![](https://img.shields.io/github/languages/top/amisha-w/CSC510Grp8?style=for-the-badge)
+![](https://img.shields.io/github/repo-size/amisha-w/CSC510Grp8?style=for-the-badge)
+![](https://img.shields.io/github/contributors/amisha-w/CSC510Grp8?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/w/amisha-w/CSC510Grp8?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🤝 Meet the team
 - [👨‍💻 Ameya Chavan](https://github.com/ameyachavan26)
