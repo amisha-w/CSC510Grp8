@@ -7,7 +7,7 @@
 - 👩‍💻 Amisha Waghela
 - 👩‍💻 Aoishi Das
 - 👨‍💻 Kunal Shah
-- 👩‍💻 Swarnamalya M
+- 👩‍💻 Swarnamalya Mohan 
 
 ## 🌼 Features
 | Function      |Description    |
