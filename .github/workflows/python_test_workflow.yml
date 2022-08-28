@@ -1,4 +1,4 @@
-name: GitHub-Actions-Workflow
+name: Python Test Workflow
 
 on: [push]
 
@@ -23,9 +23,7 @@ jobs:
 
       - name: Test with pytest
         run: |
-          pip install pytest
-          pip install pytest-cov
-          pytest test/test_greeter.py --doctest-modules --junitxml=junit/test-results.xml --cov=com --cov-report=xml --cov-report=html
+          pytest
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: echo "All done 😊"
