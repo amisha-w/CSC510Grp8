@@ -14,11 +14,7 @@
 | ------------- |:-------------:|
 | Greeter       |Provides a refreshing greeting for you to start a new day!|
 
-## 📀 Install now!
-```bash
-npm i some-package
-```
-Then run setup.py
+
 
 ## 📥 Requirements.txt
 - The most important file for the `requirements` package is the [requirements.txt](https://github.com/amisha-w/CSC510Grp8/blob/main/requirements.txt) file in our project repository.
