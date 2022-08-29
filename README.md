@@ -12,6 +12,7 @@ It contains a Python module for a Greeter, that takes the name of a user as an i
 
 ------------------------------------------
 ![](https://github.com/amisha-w/CSC510Grp8/actions/workflows/python_test_workflow.yml/badge.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7030331.svg)](https://doi.org/10.5281/zenodo.7030331)
 ### 
 ![](https://img.shields.io/github/license/amisha-w/CSC510Grp8?style=for-the-badge)
 ![](https://img.shields.io/github/languages/top/amisha-w/CSC510Grp8?style=for-the-badge)
