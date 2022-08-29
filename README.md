@@ -21,11 +21,13 @@ It contains a Python module for a Greeter, that takes the name of a user as an i
 
 
 ## 🤝 Meet the team
+
 - [👨‍💻 Ameya Chavan](https://github.com/ameyachavan26)
 - [👩‍💻 Amisha Waghela](https://github.com/amisha-w)
 - [👩‍💻 Aoishi Das](https://github.com/Aoishi28)
 - [👨‍💻 Kunal Shah](https://github.com/kunalshah03)
-- [👩‍💻 Swarnamalya M](https://github.com/swarnamalyamohan)
+- [👩‍💻 Swarnamalya Mohan](https://github.com/swarnamalyamohan)
+
 
 ## 🌼 Features
 | Function      |Description    |

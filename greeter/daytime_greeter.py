@@ -3,25 +3,21 @@ import datetime
 
 
 class DaytimeGreeter:
-    
 
-    
-    
-    def give_greeting():
+    def give_greeting(name):
+        if not name:
+            return "Please enter your name"
+
         currentTime = datetime.datetime.now()
         ct = currentTime.hour
 
         if ct < 12:
             greeting = "Good morning"
-        elif 12 <= currentTime.hour < 18:
+        elif 12 <= ct < 18:
             greeting = "Good afternoon"
         else:
             greeting = "Good evening"
         
-        return greeting
+        return greeting + " " + name
 
-    def greeted_name():
-        name = input("Enter your name:")
-        print(DaytimeGreeter.give_greeting, name)
-        
-    greeted_name()
+   
