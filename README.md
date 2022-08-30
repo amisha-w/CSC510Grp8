@@ -35,11 +35,7 @@ It contains a Python module for a Greeter, that takes the name of a user as an i
 | ------------- |:-------------:|
 | Greeter       |Provides a refreshing greeting for you to start a new day!|
 
-## 📀 Install now!
-```bash
-pip install -m requirements.txt
-```
-Then run setup.py
+
 
 ## 📥 Requirements.txt
 - The most important file for the `requirements` package is the [requirements.txt](https://github.com/amisha-w/CSC510Grp8/blob/main/requirements.txt) file in our project repository.
