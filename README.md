@@ -12,13 +12,13 @@ It contains a Python module for a Greeter, that takes the name of a user as an i
 
 ------------------------------------------
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7030331.svg)](https://doi.org/10.5281/zenodo.7030331)
-![](https://img.shields.io/github/license/amisha-w/CSC510Grp8)
-![](https://github.com/amisha-w/CSC510Grp8/actions/workflows/python_test_workflow.yml/badge.svg)
-![](https://img.shields.io/badge/tests-3%20passed%2C%200%20failed-brightgreen)
-![](https://img.shields.io/github/languages/top/amisha-w/CSC510Grp8)
+[![license](https://img.shields.io/github/license/amisha-w/CSC510Grp8)](https://github.com/amisha-w/CSC510Grp8/blob/main/LICENSE)
+[![test](https://github.com/amisha-w/CSC510Grp8/actions/workflows/python_test_workflow.yml/badge.svg)](https://github.com/amisha-w/CSC510Grp8/actions/workflows/python_test_workflow.yml)
+<!-- ![](https://img.shields.io/badge/tests-3%20passed%2C%200%20failed-brightgreen) -->
+[![language](https://img.shields.io/github/languages/top/amisha-w/CSC510Grp8)](https://github.com/amisha-w/CSC510Grp8/search?l=python)
 ![](https://img.shields.io/github/repo-size/amisha-w/CSC510Grp8)
-![](https://img.shields.io/github/contributors/amisha-w/CSC510Grp8)
-![](https://img.shields.io/github/commit-activity/w/amisha-w/CSC510Grp8)
+[![contributors](https://img.shields.io/github/contributors/amisha-w/CSC510Grp8)](https://github.com/amisha-w/CSC510Grp8/graphs/contributors)
+[![commits](https://img.shields.io/github/commit-activity/w/amisha-w/CSC510Grp8)](https://github.com/amisha-w/CSC510Grp8/graphs/commit-activity)
 
 
 ## 🤝 Meet the team
